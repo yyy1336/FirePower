@@ -1,5 +1,3 @@
-[![Build status](https://github.com/ipc-sim/IPC/workflows/Build/badge.svg?event=push)](https://github.com/ipc-sim/IPC/actions?query=workflow%3ABuild+branch%3Amaster+event%3Apush)
-[![License](https://img.shields.io/github/license/ipc-sim/IPC.svg?color=blue)](https://github.com/ipc-sim/IPC/blob/master/LICENSE)
-
 # FirePower
 
+这是我大三《计算机图形学》课程的大作业，一个用unity制作的FPS游戏，现在仅放上了当时展示用的ppt和demo，等有空了或许会把游戏文件整理一下放上来。
